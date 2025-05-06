@@ -1,0 +1,27 @@
+{
+  "name": "atividade_8",
+  "version": "1.0.0",
+  "description": "\"# atividade8_back-end\" \r \"# atividade8_back-end\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanlMelo/atividade8_back-end.git"
+  },
+  "author": "Renan Lara Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanlMelo/atividade8_back-end/issues"
+  },
+  "homepage": "https://github.com/RenanlMelo/atividade8_back-end#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
