@@ -4,7 +4,7 @@ const port = 8000
 
 const cors = require('cors')
 app.use(cors({
-    origin: 'http://localhost:5173'
+    origin: 'https://atividade8-front-end.vercel.app'
 }))
 
 app.get("/", (req, res) => {
